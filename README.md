@@ -49,7 +49,7 @@ Click the image above to watch the video.
 
 ## Bot Preview
 
-<img src="https://github.com/Chainsoft-official/NotCoinBot/blob/main/bin/thumbnail.png"  width="600"/>
+<img src="https://github.com/Chainsoft-official/NotCoinBot/blob/main/bin/thumbnail.png"/>
 
 ## Buying
 Contact Me: [Chainsoft.pk](https://linktr.ee/Chainsoft.pk?utm_source=linktree_admin_share)
