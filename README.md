@@ -1,7 +1,5 @@
 # TapSwap, Hamster, and Notcoin Mini-App Clones
 
-# TapSwap, Hamster, and Notcoin Mini-App Clones
-
 Welcome to our exclusive collection of **TapSwap, Hamster, and Notcoin Mini-App Clones**! These are high-quality clones of popular Telegram mini-apps, perfect for launching your own engaging and rewarding crypto games. Packed with advanced features, these clones are designed to provide a seamless experience for users while offering powerful management tools for administrators.
 
 ## Key Features
