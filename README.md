@@ -1,5 +1,7 @@
 # TapSwap, Hamster, and Notcoin Mini-App Clones
 
+# TapSwap, Hamster, and Notcoin Mini-App Clones
+
 Welcome to our exclusive collection of **TapSwap, Hamster, and Notcoin Mini-App Clones**! These are high-quality clones of popular Telegram mini-apps, perfect for launching your own engaging and rewarding crypto games. Packed with advanced features, these clones are designed to provide a seamless experience for users while offering powerful management tools for administrators.
 
 ## Key Features
@@ -52,11 +54,18 @@ Click the image above to watch the video.
 
 We offer this powerful source code at an affordable price of **400 USDT (ERC20)**, with **free installation** included to ensure you’re up and running quickly and smoothly.
 
----
 
-For more information or to purchase, please contact us at:
-- **Telegram**: [Telegram](https://web.telegram.org/a/)
-- **WhatsApp**: +923066303835
-- **Instagram**: [Instagram](https://www.instagram.com/chainsoft_officiall/)
+## Buying
+Contact Me: [Chainsoft.pk](https://linktr.ee/Chainsoft.pk?utm_source=linktree_admin_share)
 
-We look forward to helping you launch your own successful mini-app on Telegram with our feature-rich clones.
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/226a790b-9dc6-4425-a735-54f83cdac537" width="200" />
+</p>
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+## Contact
+- **Telegram** : [Telegram](https://web.telegram.org/a/)
+- **WhatsApp** : +923066303835
+- **Instagram** : [Instagram](https://www.instagram.com/chainsoft_officiall/)
