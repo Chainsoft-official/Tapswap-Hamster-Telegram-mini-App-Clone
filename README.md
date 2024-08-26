@@ -47,9 +47,9 @@ Click the image above to watch the video.
 ### 7. Airdrop Feature
 - **Airdrop Integration**: When a player connects their TON Wallet, their address is saved in the database, allowing for seamless participation in airdrops.
 
-## Bot Previews
+## Bot Preview
 
-<img src="https://github.com/Chainsoft-official/NotCoinBot/blob/main/bin/thumbnail.png" />
+<img src="https://github.com/Chainsoft-official/NotCoinBot/blob/main/bin/thumbnail.png"  width="600"/>
 
 ## Buying
 Contact Me: [Chainsoft.pk](https://linktr.ee/Chainsoft.pk?utm_source=linktree_admin_share)
